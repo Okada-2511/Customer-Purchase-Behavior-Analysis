@@ -1,4 +1,4 @@
-
+<img width="1248" height="217" alt="image" src="https://github.com/user-attachments/assets/b1f212c4-6730-4367-86bf-0e527971b5dc" />
 # Phân Tích Hành Vi Mua Sắm Của Khách Hàng
 ## Giới thiệu dự án
 
@@ -76,6 +76,7 @@ Trong quá trình phân tích, dữ liệu được làm sạch và chuẩn hóa
 ---
 
 ## Cấu trúc dự án
+```
 Customer-Purchase-Behavior-Analysis/
 │
 ├── data/
@@ -94,7 +95,7 @@ Customer-Purchase-Behavior-Analysis/
 │   └── Final_Report.pdf
 │
 └── README.md
-
+```
 ---
 
 ## Kết quả nổi bật
