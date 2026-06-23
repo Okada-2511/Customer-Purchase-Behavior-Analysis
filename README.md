@@ -85,12 +85,12 @@ Customer-Shopping-Behavior-Analysis/
 │   └── item.csv
 │
 ├── sql/
-│   ├── .sql
-│   └── .sql
+│   ├── SQL_CustomerBehavior.sql
+│   └── SQL_Item.sql
 │
 ├── dashboard/
-│   ├── .pbix
-│   └── .png
+│   ├── Product Sales Overview Dashboard.pbix
+│   └── sreenshort.png
 │
 ├── report/
 │   └── Final_Report.pdf
