@@ -1,4 +1,4 @@
-<img width="1248" height="217" alt="image" src="https://github.com/user-attachments/assets/b1f212c4-6730-4367-86bf-0e527971b5dc" />
+
 # Phân Tích Hành Vi Mua Sắm Của Khách Hàng
 ## Giới thiệu dự án
 
