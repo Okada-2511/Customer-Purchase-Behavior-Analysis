@@ -76,9 +76,7 @@ Trong quá trình phân tích, dữ liệu được làm sạch và chuẩn hóa
 ---
 
 ## Cấu trúc dự án
-
-
-Customer-Shopping-Behavior-Analysis/
+Customer-Purchase-Behavior-Analysis/
 │
 ├── data/
 │   ├── customer.csv
@@ -90,13 +88,12 @@ Customer-Shopping-Behavior-Analysis/
 │
 ├── dashboard/
 │   ├── Product Sales Overview Dashboard.pbix
-│   └── sreenshort.png
+│   └── Sreenshort.png
 │
 ├── report/
 │   └── Final_Report.pdf
 │
 └── README.md
-```
 
 ---
 
